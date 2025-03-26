@@ -17,15 +17,20 @@
   <div align="center"> <!--EuSouZaqueuSouzaJr-->
     <div align="center">
       <br>
-      <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&size=25&Center=True&width=1000&lines=Olá!+Eu+sou+Zaqueu+Souza+Jr.+💻!" alt="Typing SVG" /></a>
-      <br>
       <br>
     </div>
     <div align="center">
       <img align="right" height="300" src="https://i.imgur.com/h6wNYDy.png"  />
     </div>
-    <div aliggn=left> <!--Sobre Min-->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div align=left> <!--Sobre Min-->
       <p align="left">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
         ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
