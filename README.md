@@ -20,13 +20,13 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&size=25&Center=True&width=1000&lines=Olá!+Eu+sou+Zaqueu+Souza+Jr.+💻!" alt="Typing SVG" /></a>
       <br>
     </div>
-    <div align="flex-end">
+    <div align="right">
       <img align="right" height="300" src="https://i.imgur.com/h6wNYDy.png"  />
     </div>
     <div>
       <br><br><br><br><br><br><br><br><br><br>
     </div>
-    <div align="flex-start"> <!--Sobre Min-->
+    <div align="left"> <!--Sobre Min-->
       <p align="left">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
         ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
@@ -35,11 +35,10 @@
     </div>
   </div>
   
-  <div align="center"> <!--Linha Divisória-->
-    <hr>
-  </div>
-
   <div align="center"> <!--Skills-->
+    <div align="center"> <!--Linha Divisória-->
+      <hr>
+    </div>
     <div align="center">
       <h3 style="font-size: 26px; color: #FFFFFF;">🔥 Skills 🔥</h3>
     </div>
