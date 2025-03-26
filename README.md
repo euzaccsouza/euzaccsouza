@@ -30,6 +30,7 @@
     <br>
     <br>
     <br>
+    <br>
     <div align="flex-start"> <!--Sobre Min-->
       <p align="left">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
