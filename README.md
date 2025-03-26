@@ -35,6 +35,7 @@
         ✨ Criando projetos para aprimorar minhas habilidades
       </p>
     </div>
+    <br>
   </div>
   
   <div align="center"> <!--Skills-->
