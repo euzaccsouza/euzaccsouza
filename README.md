@@ -31,7 +31,7 @@
     <br>
     <br>
     <div align=left> <!--Sobre Min-->
-      <p align="left">🌍 Recife, Pernambuco<br>
+      <p align="flex-end">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
         ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
