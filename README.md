@@ -34,7 +34,6 @@
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
         ✨ Criando projetos para aprimorar minhas habilidades
       </p>
-      <br>
     </div>
   </div>
   
