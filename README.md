@@ -6,7 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&size=25&Center=True&width=1000&lines=Olá!+Eu+sou+Zaqueu+Souza+Jr.+💻!" alt="Typing SVG" /></a>
   </div>
   <div align="center">
-    <h3 >_____________________________________________________________________________________________________________________</h3>
+    <h3 >____________________________________________________________________________________________________________________</h3>
   </div>
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=FFFFFF" alt="Typing SVG" /></a>
