@@ -73,6 +73,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="30" alt="Insomnia logo" />
     </div>
   </div>
+  <div align="center"> <!--  Status   -->
+    <div align="center"> <!--Linha Divisória-->
+      <hr>
+    </div>
+    <div align="center">
+      <h3 style="font-size: 26px; color: #FFFFFF;"> Status </h3>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
+    </div>     
+    
+  </div>
 
 </div> 
 <!--FIM-->
