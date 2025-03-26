@@ -28,9 +28,9 @@
     </div>
     <div align="left"> <!--Sobre Min-->
       <p align="left">
-        🌍 Recife, Pernambuco<br>
+        🌍 Sou de Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
-        ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
+        ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento de APi's e Microservices<br>
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
         ✨ Criando projetos para aprimorar minhas habilidades
       </p>
@@ -82,7 +82,7 @@
       <br>
     </div>
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" 
+      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" 
        alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
     </div>
