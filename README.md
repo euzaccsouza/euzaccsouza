@@ -24,7 +24,7 @@
       <img align="right" height="300" src="https://i.imgur.com/h6wNYDy.png"  />
     </div>
     <div>
-      <br><br><br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br>
     </div>
     <div align="left"> <!--Sobre Min-->
       <p align="left">🌍 Recife, Pernambuco<br>
