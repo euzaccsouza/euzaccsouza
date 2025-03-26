@@ -8,8 +8,8 @@
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&size=25&Center=True&width=1000&lines=Olá!+Eu+sou+Zaqueu+Souza+Jr.+💻!" alt="Typing SVG" /></a>
   </div>
-  <div align="center">
-    <h3>____________________________________________________________________________________________________________________</h3>
+  <div align="center"> <!--Linha Divisória-->
+    <hr>
   </div>
 
   <!--Bem vindo-->
@@ -23,8 +23,8 @@
       🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
       ✨ Criando projetos para aprimorar minhas habilidades</p>
   </div>
-  <div align="center">
-    <h3>____________________________________________________________________________________________________________________</h3>
+  <div align="center"> <!--Linha Divisória-->
+    <hr>
   </div>
 
 
