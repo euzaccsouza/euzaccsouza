@@ -24,14 +24,17 @@
       <img align="right" height="300" src="https://i.imgur.com/h6wNYDy.png"  />
     </div>
     <div>
-      <br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br>
     </div>
     <div align="left"> <!--Sobre Min-->
-      <p align="left">🌍 Recife, Pernambuco<br>
+      <p align="left">
+        🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
         ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
-        ✨ Criando projetos para aprimorar minhas habilidades</p>
+        ✨ Criando projetos para aprimorar minhas habilidades
+      </p>
+      <br>
     </div>
   </div>
   
