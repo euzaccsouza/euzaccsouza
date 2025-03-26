@@ -45,7 +45,7 @@
 
   <div align="center"> <!--Skills-->
     <div align="center">
-      <h3 style="font-size: 25px; color: #3498db;">🔥 Skills 🔥</h3>
+      <h3 style="font-size: 26px; color: #FFFFFF;">🔥 Skills 🔥</h3>
     </div>
     <!-- Linguagens -->
     <h4 align="left">👨🏿‍💻 Stacks 👨🏿‍💻</h4>
