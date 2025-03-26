@@ -23,14 +23,9 @@
     <div align="flex-end">
       <img align="right" height="300" src="https://i.imgur.com/h6wNYDy.png"  />
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <div>
+      <br><br><br><br><br><br><br><br><br><br>
+    </div>
     <div align="flex-start"> <!--Sobre Min-->
       <p align="left">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
