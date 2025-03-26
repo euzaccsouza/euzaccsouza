@@ -30,8 +30,8 @@
     <br>
     <br>
     <br>
-    <div align=left> <!--Sobre Min-->
-      <p align="flex-end">🌍 Recife, Pernambuco<br>
+    <div align="flex-end"> <!--Sobre Min-->
+      <p align="left">🌍 Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
         ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento Web e Software<br>
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
@@ -44,37 +44,35 @@
   </div>
 
 
-  <!--Skills-->
-  <div align="center">
-    <h3 style="font-size: 25px; color: #3498db;">🔥 Skills 🔥</h3>
+  <div align="center"> <!--Skills-->
+    <div align="center">
+      <h3 style="font-size: 25px; color: #3498db;">🔥 Skills 🔥</h3>
+    </div>
+    <!-- Linguagens -->
+    <h4 align="left">👨🏿‍💻 Stacks 👨🏿‍💻</h4>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
+    </div>
+    <!-- Ferramentas e Frameworks -->
+    <h4 align="left">🛠 Ferramentas e Frameworks 🛠</h4>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="Vscode logo"  />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring logo"  />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo"  />
+    </div>
   </div>
-  
-  <!-- Linguagens -->
-  <h4 align="left">👨🏿‍💻 Stacks 👨🏿‍💻</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
-  </div>
-
-  <!-- Ferramentas e Frameworks -->
-  <h4 align="left">🛠 Ferramentas e Frameworks 🛠</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="Vscode logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo"  />
-  </div>
-
 
 </div> 
 <!--FIM-->
