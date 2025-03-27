@@ -3,10 +3,10 @@
 
   <div align="center"> <!--Bem vindo-->
     <div align="center">
-      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6F03FC,100:800080&height=120&section=header"/> 
+      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6a6a6&height=120&section=header"/> 
     </div>
     <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=FFFFFF" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=a6a6a6&text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=FFFFFF" alt="Typing SVG" /></a>
     </div>
   </div>
   
@@ -77,13 +77,13 @@
       <br>
     </div>
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" 
+      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="135" 
        alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=graywhite&hide_border=false" height="135" alt="languages graph"  />
     </div>
     <br><br>
     <div align="center">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=euzaccsouza.euzaccsouza&left_color=royalblue&right_color=purple"  />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=euzaccsouza.euzaccsouza&left_color=gray&right_color=silver"  />
     </div>
   </div>
 
