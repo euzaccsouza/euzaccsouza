@@ -30,7 +30,7 @@
       <p align="left">
         🌍 Sou de Recife, Pernambuco<br>
         🎓 Estudante de Sistemas de Informação<br>
-        ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento de APi's e Microservices<br>
+        ⚡ Desenvolvedor Back-End com interesse em Desenvolvimento de Aplicações Web e Microservices<br>
         🎯 Com foco nas seguintes tecnologias: Java, Spring Boot, PostgreSQL e API's Rest <br>
         ✨ Criando projetos para aprimorar minhas habilidades
       </p>
@@ -77,9 +77,9 @@
       <br>
     </div>
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="135" 
+      <img src="https://github-readme-stats.vercel.app/api?username=euzaccsouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false" height="125" 
        alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=graywhite&hide_border=false" height="135" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=euzaccsouza&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=graywhite&hide_border=false" height="125" alt="languages graph"  />
     </div>
     <br><br>
     <div align="center">
