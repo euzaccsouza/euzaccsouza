@@ -6,7 +6,7 @@
       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a6a6a6&height=120&section=header"/> 
     </div>
     <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=2e3440&text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=a6a6a6" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=434c5e&text=Sejam+Bem+Vindos!&animation=fadeIn&gradientColors=B993D6,8CA6DB&animation=fadeIn&fontColor=a6a6a6" alt="Typing SVG" /></a>
     </div>
   </div>
   
