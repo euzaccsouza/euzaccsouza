@@ -1,5 +1,5 @@
 <!--Começo-->
-<div align=center style="background-color: #ffffff"> 2e3440
+<div align=center> 
 
   <div align="center"> <!--Bem vindo-->
     <div align="center">
